@@ -7,9 +7,8 @@ This is a generic login page that I'm using to practice what I recent learned. I
 Essa é uma página genérica de login que estou usando para praticar o que aprendi recentemente. É bem básico mas quero adicionar mais funcionalidades a ela para que possa aprender cada vez mais.
 </br></br>
 
-<div style="diplay: inline_block">
-  <img src="https://github.com/enzomasuda/loginForm/assets/122231049/f691c01a-8d30-40c6-b74b-aecf36085630" width="420px"/>
-  <img src="https://github.com/enzomasuda/loginForm/assets/122231049/e933e902-52c2-47cc-a1d3-217155a69834" width="415px"/>
+<div align="center">
+  <img src="https://github.com/enzomasuda/loginForm/assets/122231049/c7394531-1a83-420d-b830-5ea16b95248c"/>
 </div>
 </br>
 
