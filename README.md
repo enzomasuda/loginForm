@@ -7,17 +7,16 @@ This is a generic login page that I'm using to practice what I recent learned. I
 Essa é uma página genérica de login que estou usando para praticar o que aprendi recentemente. É bem básico mas quero adicionar mais funcionalidades a ela para que possa aprender cada vez mais.
 </br></br>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <div align="center">
-  <img src=""/>
+  <img src="https://github.com/enzomasuda/loginForm/assets/122231049/f691c01a-8d30-40c6-b74b-aecf36085630" width="760px"/>
 </div>
 </br>
 
 > <i>Para abrir essa página na sua máquina, basta clonar o repositório e abrir a página index no seu navegador.</i>
 
+<p>
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 <br>
 
 ## 👨🏽‍💻 Tecnologias
